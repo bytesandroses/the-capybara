@@ -1,0 +1,13 @@
+.resting-capybara {
+  display: block;
+  margin: auto;
+  width: 75%;
+}
+
+.habitat-and-behavior-article {
+  display: flex;
+}
+
+.physical-range {
+  width: 50%;
+}
